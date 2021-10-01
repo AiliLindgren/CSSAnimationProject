@@ -6,9 +6,6 @@
     background: #F8FFAE;
   }
 
-  body:hover {
-  }
-
   main {
     max-width: inherit;
     width: 100%;
@@ -64,7 +61,6 @@
     margin-top: 40px;
     visibility: hidden;
     animation: pulseOne 1s 2.3s ease-in-out 1, pulseTwo 1s 3.3s ease-in-out 2 forwards;
-
   }
 
   @keyframes pulseOne {
